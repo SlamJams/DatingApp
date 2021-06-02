@@ -447,3 +447,5 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 API/appsettings.json
+client/ssl/server.key
+client/ssl/server.crt
